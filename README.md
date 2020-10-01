@@ -1,0 +1,3 @@
+My Name is Torrey and this is my first Project for OTP (The Odin Project)
+Learning outcomes will be documented as I'm learning and upon completion...
+If you are paying attention to my journey, then any help is welcome!
