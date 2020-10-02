@@ -1,0 +1,88 @@
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Top navigation Bar */
+
+.top-navbar {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-link {
+  padding: 10px 10px 10px 10px;
+}
+
+.waffle-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.sign-in {
+  background-color: #4387fd;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 2px;
+  border: none;
+}
+
+/* Links */
+
+a {
+  color: black;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Google Logo Styles */
+
+.google-container {
+  text-align: center;
+  margin-top: 89px;
+}
+
+.search-box {
+  width: 450px;
+  height: 20px;
+  border-color: #e8e8e8;
+  border-radius: 50px;
+  border-width: thin;
+}
+
+/* Input Field */
+
+input:hover {
+  box-shadow: 0 0 20px #dcdcdc;
+}
+
+border {
+  border-color: #e8e8e8;
+}
+
+/* Buttons */
+
+.button-div {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 4px;
+}
+
+.divider {
+  width: 5px;
+  height: auto;
+  display: inline-block;
+}
